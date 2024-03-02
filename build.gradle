@@ -1,0 +1,59 @@
+plugins {
+    id 'java'
+}
+
+group 'com.optum'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.17.0'
+    testImplementation 'junit:junit:4.13.2'
+    //testImplementation 'org.junit.vintage:junit-vintage-engine:5.3.0'
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.14.0'
+    implementation 'io.github.prashant-ramcharan:courgette-jvm:6.9.1'
+    implementation 'org.slf4j:slf4j-api:2.0.12'
+    testImplementation 'org.slf4j:slf4j-reload4j:2.0.12'
+    implementation 'commons-io:commons-io:2.15.1'
+
+}
+
+//test {
+//    useJUnitPlatform()
+//}
+
+//tasks.withType(Test) {
+//    systemProperties = System.getProperties()
+//    systemProperties.remove("java.endorsed.dirs")
+//}
+//
+//task runFeaturesUsingJUnit(type: Test) {
+//    include '**/suites/junit/FeatureSuite.class'
+//    outputs.upToDateWhen { false }
+//}
+
+task pathingJar(type: Jar) {
+    dependsOn configurations.runtimeClasspath
+    //appendix = 'pathing'
+
+    doFirst {
+        manifest {
+            attributes "Class-Path": configurations.runtimeClasspath.files.collect {it.toURL().toString().replaceFirst("file:/", '/')}.join(" ")
+        }
+    }
+}
+
+task parallelTest(type: Test) {
+    dependsOn pathingJar
+    doFirst {
+//        classpath = files(sourceSets.test.output.files, pathingJar.archivePath)
+        classpath = files(sourceSets.test.output.files, pathingJar)
+    }
+
+    include '**/CucumberRunner.class'
+    outputs.upToDateWhen { false }
+    testLogging.showStandardStreams = true
+}

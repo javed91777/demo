@@ -1,0 +1,292 @@
+2024-02-29 15:08:49 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 15:09:09 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 16:00:28 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 16:00:48 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 16:35:27 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 16:35:47 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 19:10:39 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 19:10:59 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 19:11:19 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not clickable
+2024-02-29 19:11:19 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 19:11:19 INFO  - Element [[ChromeDriver: chrome on windows (301726db1b8ee95dd28736c8cd52b778)] -> id: password] is visible
+2024-02-29 19:11:20 INFO  - Element [[ChromeDriver: chrome on windows (301726db1b8ee95dd28736c8cd52b778)] -> id: password] is clickable
+2024-02-29 19:11:20 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (301726db1b8ee95dd28736c8cd52b778)] -> id: password]
+2024-02-29 19:11:20 INFO  - Element [[ChromeDriver: chrome on windows (301726db1b8ee95dd28736c8cd52b778)] -> class name: radius] is visible
+2024-02-29 19:11:20 INFO  - Element [[ChromeDriver: chrome on windows (301726db1b8ee95dd28736c8cd52b778)] -> class name: radius] is clickable
+2024-02-29 19:11:21 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (301726db1b8ee95dd28736c8cd52b778)] -> class name: radius]
+2024-02-29 19:11:44 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 19:12:04 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 19:12:24 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not clickable
+2024-02-29 19:12:24 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 19:12:24 INFO  - Element [[ChromeDriver: chrome on windows (d326669c244f65dad2885e6523acb79c)] -> id: password] is visible
+2024-02-29 19:12:24 INFO  - Element [[ChromeDriver: chrome on windows (d326669c244f65dad2885e6523acb79c)] -> id: password] is clickable
+2024-02-29 19:12:25 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (d326669c244f65dad2885e6523acb79c)] -> id: password]
+2024-02-29 19:12:25 INFO  - Element [[ChromeDriver: chrome on windows (d326669c244f65dad2885e6523acb79c)] -> class name: radius] is visible
+2024-02-29 19:12:25 INFO  - Element [[ChromeDriver: chrome on windows (d326669c244f65dad2885e6523acb79c)] -> class name: radius] is clickable
+2024-02-29 19:12:26 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (d326669c244f65dad2885e6523acb79c)] -> class name: radius]
+2024-02-29 19:14:01 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 19:14:21 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 19:14:42 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 19:15:02 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:48:23 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:48:43 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:49:04 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:49:24 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:52:20 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:52:40 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:52:53 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:53:13 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:54:09 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:54:30 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:54:50 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:55:10 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:56:12 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:56:32 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:56:52 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not clickable
+2024-02-29 20:56:52 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 20:56:52 INFO  - Element [[ChromeDriver: chrome on windows (afb05d0b366813693edbc137a08ef373)] -> id: password] is visible
+2024-02-29 20:56:52 INFO  - Element [[ChromeDriver: chrome on windows (afb05d0b366813693edbc137a08ef373)] -> id: password] is clickable
+2024-02-29 20:56:53 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (afb05d0b366813693edbc137a08ef373)] -> id: password]
+2024-02-29 20:56:53 INFO  - Element [[ChromeDriver: chrome on windows (afb05d0b366813693edbc137a08ef373)] -> class name: radius] is visible
+2024-02-29 20:56:53 INFO  - Element [[ChromeDriver: chrome on windows (afb05d0b366813693edbc137a08ef373)] -> class name: radius] is clickable
+2024-02-29 20:56:54 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (afb05d0b366813693edbc137a08ef373)] -> class name: radius]
+2024-02-29 20:57:10 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:57:30 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:57:51 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not clickable
+2024-02-29 20:57:51 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 20:57:51 INFO  - Element [[ChromeDriver: chrome on windows (c982e1f91a04b9d6b79d88d0d1c12544)] -> id: password] is visible
+2024-02-29 20:57:51 INFO  - Element [[ChromeDriver: chrome on windows (c982e1f91a04b9d6b79d88d0d1c12544)] -> id: password] is clickable
+2024-02-29 20:57:51 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (c982e1f91a04b9d6b79d88d0d1c12544)] -> id: password]
+2024-02-29 20:57:51 INFO  - Element [[ChromeDriver: chrome on windows (c982e1f91a04b9d6b79d88d0d1c12544)] -> class name: radius] is visible
+2024-02-29 20:57:51 INFO  - Element [[ChromeDriver: chrome on windows (c982e1f91a04b9d6b79d88d0d1c12544)] -> class name: radius] is clickable
+2024-02-29 20:57:52 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (c982e1f91a04b9d6b79d88d0d1c12544)] -> class name: radius]
+2024-02-29 20:59:01 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 20:59:21 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 20:59:42 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not clickable
+2024-02-29 20:59:42 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 20:59:42 INFO  - Element [[ChromeDriver: chrome on windows (46f00175525859f0207ba67080971abf)] -> id: password] is visible
+2024-02-29 20:59:42 INFO  - Element [[ChromeDriver: chrome on windows (46f00175525859f0207ba67080971abf)] -> id: password] is clickable
+2024-02-29 20:59:42 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (46f00175525859f0207ba67080971abf)] -> id: password]
+2024-02-29 20:59:42 INFO  - Element [[ChromeDriver: chrome on windows (46f00175525859f0207ba67080971abf)] -> class name: radius] is visible
+2024-02-29 20:59:42 INFO  - Element [[ChromeDriver: chrome on windows (46f00175525859f0207ba67080971abf)] -> class name: radius] is clickable
+2024-02-29 20:59:43 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (46f00175525859f0207ba67080971abf)] -> class name: radius]
+2024-02-29 21:00:58 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 21:01:18 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 21:01:39 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not clickable
+2024-02-29 21:01:39 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 21:01:39 INFO  - Element [[ChromeDriver: chrome on windows (ee9d128d308a1b2a5c0c46c023bfaed5)] -> id: password] is visible
+2024-02-29 21:01:39 INFO  - Element [[ChromeDriver: chrome on windows (ee9d128d308a1b2a5c0c46c023bfaed5)] -> id: password] is clickable
+2024-02-29 21:01:39 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (ee9d128d308a1b2a5c0c46c023bfaed5)] -> id: password]
+2024-02-29 21:01:39 INFO  - Element [[ChromeDriver: chrome on windows (ee9d128d308a1b2a5c0c46c023bfaed5)] -> class name: radius] is visible
+2024-02-29 21:01:39 INFO  - Element [[ChromeDriver: chrome on windows (ee9d128d308a1b2a5c0c46c023bfaed5)] -> class name: radius] is clickable
+2024-02-29 21:01:40 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (ee9d128d308a1b2a5c0c46c023bfaed5)] -> class name: radius]
+2024-02-29 21:03:27 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 21:03:47 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 21:04:08 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not clickable
+2024-02-29 21:04:08 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 21:04:08 INFO  - Element [[ChromeDriver: chrome on windows (d1698ca48e5505aec09c89b9e42a4e2e)] -> id: password] is visible
+2024-02-29 21:04:08 INFO  - Element [[ChromeDriver: chrome on windows (d1698ca48e5505aec09c89b9e42a4e2e)] -> id: password] is clickable
+2024-02-29 21:04:08 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (d1698ca48e5505aec09c89b9e42a4e2e)] -> id: password]
+2024-02-29 21:04:08 INFO  - Element [[ChromeDriver: chrome on windows (d1698ca48e5505aec09c89b9e42a4e2e)] -> class name: radius] is visible
+2024-02-29 21:04:08 INFO  - Element [[ChromeDriver: chrome on windows (d1698ca48e5505aec09c89b9e42a4e2e)] -> class name: radius] is clickable
+2024-02-29 21:04:09 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (d1698ca48e5505aec09c89b9e42a4e2e)] -> class name: radius]
+2024-02-29 21:05:50 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 21:05:50 INFO  - Element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> id: username] is visible
+2024-02-29 21:05:50 INFO  - Element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> id: username] is clickable
+2024-02-29 21:05:50 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> id: username]
+2024-02-29 21:05:50 INFO  - Element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> id: password] is visible
+2024-02-29 21:05:50 INFO  - Element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> id: password] is clickable
+2024-02-29 21:05:51 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> id: password]
+2024-02-29 21:05:51 INFO  - Element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> class name: radius] is visible
+2024-02-29 21:05:51 INFO  - Element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> class name: radius] is clickable
+2024-02-29 21:05:51 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> class name: radius]
+2024-02-29 21:05:51 INFO  - Element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> link text: Logout] is visible
+2024-02-29 21:05:51 INFO  - Element [[ChromeDriver: chrome on windows (7333aa1b6e2e6aaaba4ea8c8a13e4d0c)] -> link text: Logout] is clickable
+2024-02-29 21:05:52 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 21:09:29 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 21:09:29 INFO  - Element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> id: username] is visible
+2024-02-29 21:09:29 INFO  - Element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> id: username] is clickable
+2024-02-29 21:09:29 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> id: username]
+2024-02-29 21:09:29 INFO  - Element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> id: password] is visible
+2024-02-29 21:09:30 INFO  - Element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> id: password] is clickable
+2024-02-29 21:09:30 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> id: password]
+2024-02-29 21:09:30 INFO  - Element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> class name: radius] is visible
+2024-02-29 21:09:30 INFO  - Element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> class name: radius] is clickable
+2024-02-29 21:09:31 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> class name: radius]
+2024-02-29 21:09:31 INFO  - Element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> link text: Logout] is visible
+2024-02-29 21:09:31 INFO  - Element [[ChromeDriver: chrome on windows (aa28699dea989abd9e22a766f8af0516)] -> link text: Logout] is clickable
+2024-02-29 21:09:31 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 21:10:06 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 21:10:06 INFO  - Element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> id: username] is visible
+2024-02-29 21:10:06 INFO  - Element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> id: username] is clickable
+2024-02-29 21:10:06 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> id: username]
+2024-02-29 21:10:06 INFO  - Element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> id: password] is visible
+2024-02-29 21:10:06 INFO  - Element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> id: password] is clickable
+2024-02-29 21:10:07 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> id: password]
+2024-02-29 21:10:07 INFO  - Element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> class name: radius] is visible
+2024-02-29 21:10:07 INFO  - Element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> class name: radius] is clickable
+2024-02-29 21:10:07 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> class name: radius]
+2024-02-29 21:10:08 INFO  - Element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> link text: Logout] is visible
+2024-02-29 21:10:08 INFO  - Element [[ChromeDriver: chrome on windows (563f6db4246e8bbfae93ed02c8202e51)] -> link text: Logout] is clickable
+2024-02-29 21:10:09 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 21:10:48 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 21:10:48 INFO  - Element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> id: username] is visible
+2024-02-29 21:10:48 INFO  - Element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> id: username] is clickable
+2024-02-29 21:10:48 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> id: username]
+2024-02-29 21:10:48 INFO  - Element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> id: password] is visible
+2024-02-29 21:10:49 INFO  - Element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> id: password] is clickable
+2024-02-29 21:10:49 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> id: password]
+2024-02-29 21:10:49 INFO  - Element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> class name: radius] is visible
+2024-02-29 21:10:49 INFO  - Element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> class name: radius] is clickable
+2024-02-29 21:10:49 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> class name: radius]
+2024-02-29 21:10:50 INFO  - Element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> link text: Logout] is visible
+2024-02-29 21:10:50 INFO  - Element [[ChromeDriver: chrome on windows (30d475712cf352a04793b2ced5cfa926)] -> link text: Logout] is clickable
+2024-02-29 21:10:51 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 21:11:22 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 21:11:22 INFO  - Element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> id: username] is visible
+2024-02-29 21:11:22 INFO  - Element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> id: username] is clickable
+2024-02-29 21:11:22 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> id: username]
+2024-02-29 21:11:22 INFO  - Element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> id: password] is visible
+2024-02-29 21:11:22 INFO  - Element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> id: password] is clickable
+2024-02-29 21:11:22 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> id: password]
+2024-02-29 21:11:22 INFO  - Element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> class name: radius] is visible
+2024-02-29 21:11:22 INFO  - Element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> class name: radius] is clickable
+2024-02-29 21:11:23 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> class name: radius]
+2024-02-29 21:11:23 INFO  - Element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> link text: Logout] is visible
+2024-02-29 21:11:23 INFO  - Element [[ChromeDriver: chrome on windows (dea88f28388b3154bceb0580aa59599d)] -> link text: Logout] is clickable
+2024-02-29 21:11:24 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 21:13:54 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 21:13:54 INFO  - Element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> id: username] is visible
+2024-02-29 21:13:54 INFO  - Element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> id: username] is clickable
+2024-02-29 21:13:54 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> id: username]
+2024-02-29 21:13:54 INFO  - Element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> id: password] is visible
+2024-02-29 21:13:54 INFO  - Element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> id: password] is clickable
+2024-02-29 21:13:54 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> id: password]
+2024-02-29 21:13:54 INFO  - Element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> class name: radius] is visible
+2024-02-29 21:13:54 INFO  - Element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> class name: radius] is clickable
+2024-02-29 21:13:55 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> class name: radius]
+2024-02-29 21:13:55 INFO  - Element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> link text: Logout] is visible
+2024-02-29 21:13:55 INFO  - Element [[ChromeDriver: chrome on windows (7ae4a8f8ff1efc9d015806ef2e4e0ffd)] -> link text: Logout] is clickable
+2024-02-29 21:13:56 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 23:07:54 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:07:54 INFO  - Element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> id: username] is visible
+2024-02-29 23:07:54 INFO  - Element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> id: username] is clickable
+2024-02-29 23:07:54 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> id: username]
+2024-02-29 23:07:54 INFO  - Element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> id: password] is visible
+2024-02-29 23:07:54 INFO  - Element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> id: password] is clickable
+2024-02-29 23:07:54 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> id: password]
+2024-02-29 23:07:54 INFO  - Element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> class name: radius] is visible
+2024-02-29 23:07:54 INFO  - Element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> class name: radius] is clickable
+2024-02-29 23:07:55 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> class name: radius]
+2024-02-29 23:07:55 INFO  - Element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> link text: Logout] is visible
+2024-02-29 23:07:55 INFO  - Element [[ChromeDriver: chrome on windows (88bfdccb25816d3b33cec305df694e4c)] -> link text: Logout] is clickable
+2024-02-29 23:07:56 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 23:08:51 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:09:11 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 23:11:49 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:12:09 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 23:22:01 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:22:21 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 23:22:21 INFO  - Element [[ChromeDriver: chrome on windows (4857a859d2ed5aaf94efad7d4372e33b)] -> id: password] is visible
+2024-02-29 23:22:21 INFO  - Element [[ChromeDriver: chrome on windows (4857a859d2ed5aaf94efad7d4372e33b)] -> id: password] is clickable
+2024-02-29 23:22:21 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (4857a859d2ed5aaf94efad7d4372e33b)] -> id: password]
+2024-02-29 23:22:21 INFO  - Element [[ChromeDriver: chrome on windows (4857a859d2ed5aaf94efad7d4372e33b)] -> class name: radius] is visible
+2024-02-29 23:22:21 INFO  - Element [[ChromeDriver: chrome on windows (4857a859d2ed5aaf94efad7d4372e33b)] -> class name: radius] is clickable
+2024-02-29 23:22:22 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (4857a859d2ed5aaf94efad7d4372e33b)] -> class name: radius]
+2024-02-29 23:32:05 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:32:25 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 23:32:25 INFO  - Element [[ChromeDriver: chrome on windows (4636f2fe69fb706baf1f93bf6040cc31)] -> id: password] is visible
+2024-02-29 23:32:26 INFO  - Element [[ChromeDriver: chrome on windows (4636f2fe69fb706baf1f93bf6040cc31)] -> id: password] is clickable
+2024-02-29 23:32:26 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (4636f2fe69fb706baf1f93bf6040cc31)] -> id: password]
+2024-02-29 23:32:26 INFO  - Element [[ChromeDriver: chrome on windows (4636f2fe69fb706baf1f93bf6040cc31)] -> class name: radius] is visible
+2024-02-29 23:32:26 INFO  - Element [[ChromeDriver: chrome on windows (4636f2fe69fb706baf1f93bf6040cc31)] -> class name: radius] is clickable
+2024-02-29 23:32:28 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (4636f2fe69fb706baf1f93bf6040cc31)] -> class name: radius]
+2024-02-29 23:34:06 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:34:26 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 23:37:38 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:37:38 INFO  - Element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> id: username] is visible
+2024-02-29 23:37:38 INFO  - Element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> id: username] is clickable
+2024-02-29 23:37:38 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> id: username]
+2024-02-29 23:37:38 INFO  - Element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> id: password] is visible
+2024-02-29 23:37:38 INFO  - Element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> id: password] is clickable
+2024-02-29 23:37:38 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> id: password]
+2024-02-29 23:37:38 INFO  - Element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> class name: radius] is visible
+2024-02-29 23:37:38 INFO  - Element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> class name: radius] is clickable
+2024-02-29 23:37:39 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> class name: radius]
+2024-02-29 23:37:39 INFO  - Element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> link text: Logout] is visible
+2024-02-29 23:37:39 INFO  - Element [[ChromeDriver: chrome on windows (a0793631727eb65235a82e819e4c93bb)] -> link text: Logout] is clickable
+2024-02-29 23:37:40 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 23:38:53 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:38:53 INFO  - Element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> id: username] is visible
+2024-02-29 23:38:53 INFO  - Element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> id: username] is clickable
+2024-02-29 23:38:53 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> id: username]
+2024-02-29 23:38:53 INFO  - Element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> id: password] is visible
+2024-02-29 23:38:53 INFO  - Element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> id: password] is clickable
+2024-02-29 23:38:53 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> id: password]
+2024-02-29 23:38:53 INFO  - Element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> class name: radius] is visible
+2024-02-29 23:38:53 INFO  - Element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> class name: radius] is clickable
+2024-02-29 23:38:54 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> class name: radius]
+2024-02-29 23:38:54 INFO  - Element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> link text: Logout] is visible
+2024-02-29 23:38:54 INFO  - Element [[ChromeDriver: chrome on windows (c901d8ebc3d87a119f3638f6b4ff99d9)] -> link text: Logout] is clickable
+2024-02-29 23:38:55 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 23:40:22 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:40:22 INFO  - Element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> id: username] is visible
+2024-02-29 23:40:22 INFO  - Element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> id: username] is clickable
+2024-02-29 23:40:22 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> id: username]
+2024-02-29 23:40:22 INFO  - Element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> id: password] is visible
+2024-02-29 23:40:22 INFO  - Element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> id: password] is clickable
+2024-02-29 23:40:23 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> id: password]
+2024-02-29 23:40:23 INFO  - Element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> class name: radius] is visible
+2024-02-29 23:40:23 INFO  - Element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> class name: radius] is clickable
+2024-02-29 23:40:23 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> class name: radius]
+2024-02-29 23:40:23 INFO  - Element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> link text: Logout] is visible
+2024-02-29 23:40:24 INFO  - Element [[ChromeDriver: chrome on windows (3f82b86f6601c43a99989ce2a830e9df)] -> link text: Logout] is clickable
+2024-02-29 23:40:24 INFO  - Successfully clicked on the element Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2024-02-29 23:41:41 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:42:01 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 23:42:59 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:43:20 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 23:44:48 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:44:48 INFO  - Element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> id: username] is visible
+2024-02-29 23:44:48 INFO  - Element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> id: username] is clickable
+2024-02-29 23:44:48 INFO  - Successfully entered the text tomsmith in the element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> id: username]
+2024-02-29 23:44:48 INFO  - Element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> id: password] is visible
+2024-02-29 23:44:48 INFO  - Element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> id: password] is clickable
+2024-02-29 23:44:48 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> id: password]
+2024-02-29 23:44:48 INFO  - Element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> class name: radius] is visible
+2024-02-29 23:44:48 INFO  - Element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> class name: radius] is clickable
+2024-02-29 23:44:49 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (f49c6297747b3b395ccd2a9e8591a7d8)] -> class name: radius]
+2024-02-29 23:54:19 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:54:39 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 23:56:50 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:57:10 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 23:57:10 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 23:57:10 INFO  - Element [[ChromeDriver: chrome on windows (cab52c9c636553f048fd1ba9b3cbe9d3)] -> id: password] is visible
+2024-02-29 23:57:10 INFO  - Element [[ChromeDriver: chrome on windows (cab52c9c636553f048fd1ba9b3cbe9d3)] -> id: password] is clickable
+2024-02-29 23:57:10 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (cab52c9c636553f048fd1ba9b3cbe9d3)] -> id: password]
+2024-02-29 23:57:10 INFO  - Element [[ChromeDriver: chrome on windows (cab52c9c636553f048fd1ba9b3cbe9d3)] -> class name: radius] is visible
+2024-02-29 23:57:11 INFO  - Element [[ChromeDriver: chrome on windows (cab52c9c636553f048fd1ba9b3cbe9d3)] -> class name: radius] is clickable
+2024-02-29 23:57:11 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (cab52c9c636553f048fd1ba9b3cbe9d3)] -> class name: radius]
+2024-02-29 23:59:00 INFO  - Successfully launched the browser and opened the Application
+2024-02-29 23:59:20 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-02-29 23:59:20 ERROR - Unable to enter text tomsmith in the element Proxy element for: DefaultElementLocator 'By.id: usernam'
+2024-02-29 23:59:20 INFO  - Element [[ChromeDriver: chrome on windows (41fdf503b2f4c6877d68d011723c0136)] -> id: password] is visible
+2024-02-29 23:59:20 INFO  - Element [[ChromeDriver: chrome on windows (41fdf503b2f4c6877d68d011723c0136)] -> id: password] is clickable
+2024-02-29 23:59:21 INFO  - Successfully entered the text SuperSecretPassword! in the element [[ChromeDriver: chrome on windows (41fdf503b2f4c6877d68d011723c0136)] -> id: password]
+2024-02-29 23:59:21 INFO  - Element [[ChromeDriver: chrome on windows (41fdf503b2f4c6877d68d011723c0136)] -> class name: radius] is visible
+2024-02-29 23:59:21 INFO  - Element [[ChromeDriver: chrome on windows (41fdf503b2f4c6877d68d011723c0136)] -> class name: radius] is clickable
+2024-02-29 23:59:24 INFO  - Successfully clicked on the element [[ChromeDriver: chrome on windows (41fdf503b2f4c6877d68d011723c0136)] -> class name: radius]
+2024-03-02 12:11:32 INFO  - Successfully launched the browser and opened the Application
+2024-03-02 12:11:52 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-03-02 12:15:21 INFO  - Successfully launched the browser and opened the Application
+2024-03-02 12:15:42 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-03-02 12:20:49 INFO  - Successfully launched the browser and opened the Application
+2024-03-02 12:21:09 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-03-02 12:45:25 INFO  - Successfully launched the browser and opened the Application
+2024-03-02 12:45:45 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-03-02 12:53:06 INFO  - Successfully launched the browser and opened the Application
+2024-03-02 12:53:26 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-03-02 13:14:02 INFO  - Successfully launched the browser and opened the Application
+2024-03-02 13:14:23 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
+2024-03-02 13:14:35 INFO  - Successfully launched the browser and opened the Application
+2024-03-02 13:15:03 ERROR - Element Proxy element for: DefaultElementLocator 'By.id: usernam' is not visible
